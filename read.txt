@@ -1,2 +1,2 @@
 master add a line 
-user add a line
+master add another line
